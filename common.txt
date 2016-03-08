@@ -1,3 +1,3 @@
 this is user1
-yes I am u2 now, conflict with master. am still u2!
+yes I am u2 now, conflict with master.
 
